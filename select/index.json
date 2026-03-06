@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "浴室",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-06T10:14:32.273381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "浴室",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_浴室_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "浴室",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_浴室_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "浴室",
+      "artist": "Deca Joins",
+      "has_synced": true,
+      "path": "select/03_浴室_Deca_Joins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "浴室 (2019 Reprise)",
+      "artist": "deca joins",
+      "has_synced": true,
+      "path": "select/04_浴室_(2019_Reprise)_deca_joins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "浴室",
+      "artist": "椞名林檞",
+      "has_synced": true,
+      "path": "select/05_浴室_椞名林檞.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "浴室 (座禅エクスタシー '00)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_浴室_(座禅エクスタシー_'00)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "浴室 (Yokushitsu)",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/07_浴室_(Yokushitsu)_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "浴室 (LP Version)",
+      "artist": "deca joins",
+      "has_synced": true,
+      "path": "select/08_浴室_(LP_Version)_deca_joins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "浴室",
+      "artist": "椎名林檎 (Shiina Ringo)",
+      "has_synced": true,
+      "path": "select/09_浴室_椎名林檎_(Shiina_Ringo).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "浴室",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/10_浴室_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浴室",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_浴室_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "浴室",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_浴室_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "浴室",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_浴室_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "浴室 - 座禅エクスタシー '00",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_浴室_-_座禅エクスタシー_'00_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "浴室 (座禅エクスタシー '00)",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_浴室_(座禅エクスタシー_'00)_椎名_林檎.txt"
+    }
+  ]
+}
